@@ -1,0 +1,85 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/* site.css */
+
+.home-page-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.home-page-container h1 {
+  font-size: 3rem;
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.home-page-container p {
+  font-size: 1.2rem;
+  color: #34495e;
+}
+
+.description {
+  background-color: #ecf0f1;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 30px;
+}
+
+.description h3 {
+  font-size: 1.5rem;
+  color: #2980b9;
+}
+
+.description ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.description li {
+  font-size: 1.2rem;
+  color: #34495e;
+}
+
+
+/* Custom Styling for the Create Form */
+form .form-control {
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+button[type="submit"] {
+  width: 200px;
+  font-size: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
