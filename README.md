@@ -1,4 +1,4 @@
-# BudgetBuddy: Expense Tracker Application
+![Screenshot 2024-12-16 115924](https://github.com/user-attachments/assets/60eccf8c-0fe1-4bbd-9fe5-debf2c54679a)# BudgetBuddy: Expense Tracker Application
 
 BudgetBuddy is a robust expense-tracking web application designed to help users manage their expenses efficiently. This project is built using **ASP.NET Core MVC** for the backend and **Entity Framework Core** for database management, with a modern user interface styled using **Bootstrap**.
 
@@ -104,17 +104,24 @@ BudgetBuddy/
 ### 1. **Home Page**
 The landing page with navigation links to manage expenses.
 
+![Screenshot 2024-12-16 115924](https://github.com/user-attachments/assets/9e18e36e-a65e-4759-a6bd-c7168ccbd344)
+
+![Screenshot 2024-12-16 115946](https://github.com/user-attachments/assets/6edfbfd5-a108-4456-ac1a-21b460f73e0b)
+
 ### 2. **Expenses Page**
 A list of all recorded expenses with options to edit or delete.
 
+![Screenshot 2024-12-16 120025](https://github.com/user-attachments/assets/3be5b501-b3dc-46a2-9512-797fba4d47cf)
+
+
 ### 3. **Add Expense Page**
 Form to add a new expense.
+![Screenshot 2024-12-16 120041](https://github.com/user-attachments/assets/4aeb0471-5e54-46ab-909f-1314bd80b06e)
 
 ### 4. **Edit Expense Page**
 Form to update existing expense details.
+![Screenshot 2024-12-16 120101](https://github.com/user-attachments/assets/74ca7434-2b58-44bd-a1f9-5d90e80240e6)
 
-### 5. **Delete Expense Page**
-Confirmation prompt for deleting an expense.
 
 ## Future Enhancements
 - Add user authentication for secure access.
@@ -123,4 +130,3 @@ Confirmation prompt for deleting an expense.
 
 ## License
 This project is licensed under the MIT License.
-
