@@ -1,4 +1,5 @@
-![Screenshot 2024-12-16 115924](https://github.com/user-attachments/assets/60eccf8c-0fe1-4bbd-9fe5-debf2c54679a)# BudgetBuddy: Expense Tracker Application
+# BudgetBuddy: Expense Tracker Application
+![Screenshot 2024-12-16 115924](https://github.com/user-attachments/assets/60eccf8c-0fe1-4bbd-9fe5-debf2c54679a)
 
 BudgetBuddy is a robust expense-tracking web application designed to help users manage their expenses efficiently. This project is built using **ASP.NET Core MVC** for the backend and **Entity Framework Core** for database management, with a modern user interface styled using **Bootstrap**.
 
